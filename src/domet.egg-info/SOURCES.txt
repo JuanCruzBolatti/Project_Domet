@@ -1,0 +1,8 @@
+pyproject.toml
+src/domet/__init__.py
+src/domet/config.py
+src/domet/db.py
+src/domet.egg-info/PKG-INFO
+src/domet.egg-info/SOURCES.txt
+src/domet.egg-info/dependency_links.txt
+src/domet.egg-info/top_level.txt

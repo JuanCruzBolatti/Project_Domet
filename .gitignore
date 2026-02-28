@@ -1,0 +1,24 @@
+# Virtual env
+.venv/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS / editor
+.DS_Store
+.vscode/
+
+# Env vars
+.env
+.env.*
+
+# Data / models (si son generados)
+data/
+models/
+*.sqlite
+*.db
+
+# Logs
+*.log
